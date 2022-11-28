@@ -17,3 +17,4 @@
 ### 💪tools
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"><br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eunji21&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ohbyul&layout=compact&theme=dracula)](https://github.com/metleeha)
